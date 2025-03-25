@@ -1,0 +1,12 @@
+.flex-containers{
+    display: flex;
+}
+.flex-containers div{
+    border: 4px, solid rgb(200, 0, 0);
+    height: 100px;
+    background-color: peachpuff;
+    flex: 1 1 0%;
+}
+.flex-containers{
+    display: flex 2 1 0%;
+}
